@@ -1,4 +1,4 @@
-# Hi, I'm Flavia Barros Paulino Schettini  👋
+# Hi, I'm Flavia Paulino  👋
 
 I am a Data Scientist proficient in Python, specializing in libraries like Pandas, Scikit-Learn, and Matplotlib.
 
